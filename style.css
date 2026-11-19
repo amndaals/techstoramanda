@@ -1,4 +1,6 @@
-* =============================================================
+style.css
+100%
+/* =============================================================
    TECHSTORE - style.css
    Cada linha tem um comentário dizendo o que ela faz.
    Não gostou de algo? Apague a linha (ou troque o valor) e veja
@@ -213,8 +215,12 @@ table:last-of-type img {
 
   a {
     padding: 6px 8px;                         /* links do menu mais compactos para caber na tela */
-    
-    /* -------------------------------------------------------------
+  }
+}
+Exibindo style.css…
+
+
+/* -------------------------------------------------------------
    PÁGINA DE CONTATO - FORMULÁRIO
    ------------------------------------------------------------- */
 .formulario {
